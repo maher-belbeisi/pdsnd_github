@@ -11,5 +11,4 @@ This Python script is designed to analyze and display statistics on bikeshare da
  The data files used in this project: **chicago.csv,new_york_city.csv,washigton.csv** and you can find these files[here](https://motivateco.com/)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[udacity] (https://github.com/udacity/pdsnd_github)
